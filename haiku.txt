@@ -1,1 +1,2 @@
 Create haiku file
+Add and commit file to git
